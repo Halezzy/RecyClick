@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAbYiQKfXpP5gSyrdxlHX_Ecb5t0ROh66g',
-    appId: '1:275900370588:android:5fe7e3e1c184b03ab52759',
-    messagingSenderId: '275900370588',
-    projectId: 'recyclick-595e1',
-    storageBucket: 'recyclick-595e1.firebasestorage.app',
+    apiKey: 'Removido por segurança',
+    appId: 'Removido por segurança',
+    messagingSenderId: 'Removido por segurança',
+    projectId: 'Removido por segurança',
+    storageBucket: 'Removido por segurança',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAA4RGja_p8DDAy0p-6QtzKDx1SclXaaxs',
-    appId: '1:275900370588:ios:5ca864d6e497c412b52759',
-    messagingSenderId: '275900370588',
-    projectId: 'recyclick-595e1',
-    storageBucket: 'recyclick-595e1.firebasestorage.app',
-    iosBundleId: 'com.halezzi.recyclick.recyclick',
+    apiKey: 'Removido por segurança',
+    appId: 'Removido por segurança',
+    messagingSenderId: 'Removido por segurança',
+    projectId: 'Removido por segurança',
+    storageBucket: 'Removido por segurança',
+    iosBundleId: 'Removido por segurança',
   );
 
 }
